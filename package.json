@@ -1,0 +1,20 @@
+{
+  "name": "lesson3",
+  "version": "1.0.0",
+  "description": "Hello friend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bortnyk Rostyslav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.2"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.11.97",
+    "nodemon": "^2.0.20"
+  }
+}
